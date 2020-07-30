@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Spider/Requests_test.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spider/requests_bs4.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spider/urllib_test.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/遍历目录树/指定文件提取.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/遍历目录树/绩点计算.py" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
